@@ -1,6 +1,4 @@
-Initial project
+Init ial project
 
 Main branch update
-
-
 
